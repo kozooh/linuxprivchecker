@@ -1,4 +1,4 @@
-
+## This is a fork of the great and well known *linuxprivchecker* script with added Python3 support.
 
 <h5>linuxprivchecker.py -- a Linux Privilege Escalation Check Script</h5>
 [Author]: Mike Czumak (T_v3rn1x) -- @SecuritySift
